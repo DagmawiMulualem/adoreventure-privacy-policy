@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: adoreventure-privacy-policy
+    env: static
+    buildCommand: null
+    staticPublishPath: .
